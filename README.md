@@ -6,7 +6,7 @@
 
 ## Scripts
 - We provide scripts for preprocessing of the Lang-8 corpus.
-- The FLUTEC is built from the [Lang-8 corpus](), so you need to remove documents with duplicate journal IDs.
+- The FLUTEC is built from the [Lang-8 corpus](https://sites.google.com/site/naistlang8corpora/), so you need to remove documents with duplicate journal IDs.
 
 ## Usage
 
