@@ -1,4 +1,4 @@
-# FLUency extended TMU Evaluation Corpus (FLUTEC)
+# FLUency extended TMU Evaluation Corpus for Japanese learners (FLUTEC)
 
 ## Data
 - The FLUTEC is an evaluation dataset for Japanese grammatical error correction on fluency edits.
