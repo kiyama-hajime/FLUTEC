@@ -11,7 +11,7 @@
 - The following paper should be cited in any publications that use our dataset.
 
 ```
-@inproceedings{,
+@inproceedings{kiyama-etal-2022-nlp,
     title = "日本語文法誤り訂正の流暢性評価に向けたデータ作成",
     author = "木山朔, 上坂奏人, 佐藤郁子, 佐藤京也, 米田悠人, 小山碧海, 三田雅人, 岡照晃, 小町守. ",
     booktitle = "言語処理学会 第28回年次大会発表論文集",
