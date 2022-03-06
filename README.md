@@ -5,7 +5,7 @@
 - You can get the dataset from this [URL]()
 
 ## Pre-processing
-The pre-processing is the same as for [TEC-JL](https://github.com/koyama-aomi/TEC-JL), please refer to it.
+- The pre-processing is the same as for [TEC-JL](https://github.com/koyama-aomi/TEC-JL), please refer to it.
 
 ## Citation
 - The following paper should be cited in any publications that use our dataset.
