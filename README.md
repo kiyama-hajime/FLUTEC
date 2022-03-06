@@ -2,7 +2,7 @@
 
 ## Data
 - The FLUTEC is an evaluation dataset for Japanese grammatical error correction on fluency edits.
-- You can get the dataset from this [URL]()
+- You can get the dataset from this [URL]().
 
 ## Pre-processing
 - The pre-processing is the same as for [TEC-JL](https://github.com/koyama-aomi/TEC-JL), please refer to it.
