@@ -4,20 +4,8 @@
 - The FLUTEC is an evaluation dataset for Japanese grammatical error correction on fluency edits.
 - You can get the dataset from this [URL]()
 
-## Scripts
-- We provide scripts for preprocessing of the Lang-8 corpus.
-- The FLUTEC is built from the [Lang-8 corpus](https://sites.google.com/site/naistlang8corpora/), so you need to remove documents with duplicate journal IDs.
-
-### Requirements
-- Python 3
-- [langdetect](https://pypi.org/project/langdetect/)
-- [python-Levenshtein](https://pypi.org/project/python-Levenshtein/)
-
-## Usage
-
-```
-a
-```
+## Pre-processing
+The pre-processing is the same as for [TEC-JL](https://github.com/koyama-aomi/TEC-JL), please refer to it.
 
 ## Citation
 - The following paper should be cited in any publications that use our dataset.
